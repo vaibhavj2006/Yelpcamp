@@ -84,8 +84,6 @@ SESSION_SECRET=your_session_secret
 DB_URL=mongodb://localhost:27017/yelpcamp
 ```
 
-> ⚠️ **Note:** The `.env` file is currently committed to this repo. Remove it and add it to `.gitignore` before sharing or deploying.
-
 ### Seed the Database (optional)
 
 ```bash
